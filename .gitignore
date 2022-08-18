@@ -1,6 +1,7 @@
 # OSX
 #
 .DS_Store
+._*
 
 # Xcode
 #
@@ -61,3 +62,9 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
+
+
+# ignore files
+*~
+*.swp
+*.orig
